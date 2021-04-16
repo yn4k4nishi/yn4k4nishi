@@ -7,8 +7,8 @@
   <a href="https://github.com/yn4k4nishi">
     <img height="20" src="https://img.shields.io/github/followers/yn4k4nishi?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/liked" />
+  <a href="https://zenn.dev/suisuiso">
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/suisuiso/liked" />
   </a>
   <a href="https://zenn.dev/suisuiso">
     <img height="20" src="https://zenn-badge.ganariya.vercel.app/suisuiso/followers" />
