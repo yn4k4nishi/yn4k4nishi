@@ -16,12 +16,6 @@
 </p>
 
 <p align="left"> 
-  <a href="https://yn4k4nishi.github.io/">
-    <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
-  </a>
-</p>
-
-<p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yn4k4nishi&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yn4k4nishi&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
