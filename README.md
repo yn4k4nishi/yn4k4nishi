@@ -1,9 +1,6 @@
 ### 👋 Hi! I'm yn4k4nishi
 
 <p align="left"> 
-  <a href="https://github.com/yn4k4nishi/yn4k4nishi/">
-    <img src="https://komarev.com/ghpvc/?username=yn4k4nishi" alt="yn4k4nishi" />
-  </a>
   <a href="https://github.com/yn4k4nishi">
     <img height="20" src="https://img.shields.io/github/followers/yn4k4nishi?label=follow&logo=github&style=flat" />
   </a>
