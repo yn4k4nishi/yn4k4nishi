@@ -4,14 +4,30 @@
   <a href="https://github.com/yn4k4nishi">
     <img height="20" src="https://img.shields.io/github/followers/yn4k4nishi?label=follow&logo=github&style=flat" />
   </a>
+  
+  <!-- Like のバッジ -->
   <a href="https://zenn.dev/suisuiso">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/suisuiso/liked" />
+    <img src="https://zenn.badge.nikaera.com/s/suisuiso/likes?style=plastic" alt="suisuiso likes" />
   </a>
-  <a href="https://zenn.dev/suisuiso">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/suisuiso/followers" />
+
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/suisuiso/articles">
+    <img src="https://zenn.badge.nikaera.com/s/suisuiso/articles?style=plastic" alt="suisuiso articles" />
   </a>
-  <a href="https://zenn.dev/suisuiso">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/suisuiso/articles" />
+
+  <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/suisuiso/followers">
+    <img src="https://zenn.badge.nikaera.com/s/suisuiso/followers?style=plastic" alt="suisuiso followers" />
+  </a>
+
+  <!-- Books のバッジ -->
+  <a href="https://zenn.dev/suisuiso/books">
+    <img src="https://zenn.badge.nikaera.com/s/suisuiso/books?style=plastic" alt="suisuiso books" />
+  </a>
+
+  <!-- Scraps のバッジ -->
+  <a href="https://zenn.dev/suisuiso/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/suisuiso/scraps?style=plastic" alt="suisuiso scraps" />
   </a>
 </p>
 
